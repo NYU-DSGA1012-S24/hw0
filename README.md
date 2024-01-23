@@ -24,7 +24,7 @@ If you don't want to access Gradescope inside of a Brightspace frame, you can si
 
 ### Campuswire
 
-To sign up for Campuswire, please either click the link in the invitation email sent to your NYU address, or go directly to the Campuswire page at [https://campuswire.com/p/GE05961C3](https://campuswire.com/p/GE05961C3) and enter the invite code 1369.
+To sign up for Campuswire, please go to [https://campuswire.com/p/GE05961C3](https://campuswire.com/p/GE05961C3) and enter the invite code 1369.
 
 ### GitHub
 
